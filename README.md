@@ -4,6 +4,7 @@ AppTracker is a simple Android application built with Kotlin and Jetpack Compose
 Features
 
 Here are some screenshots of the AppTracker app:
+
 <img src="screenshots/Screenshot_20250708_195212_AppTracker.jpg" width="300"/>
 
     Daily Usage Tracking: Displays a list of applications used on the current day, along with their total foreground usage time.
