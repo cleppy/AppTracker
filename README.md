@@ -3,6 +3,9 @@ AppTracker: Android App Usage Tracker
 AppTracker is a simple Android application built with Kotlin and Jetpack Compose that allows users to monitor their daily application usage. It leverages the Android UsageStatsManager to retrieve app usage data and stores it locally using Room Persistence Library.
 Features
 
+Here are some screenshots of the AppTracker app:
+<img src="screenshots/Screenshot_20250708_195212_AppTracker.jpg" width="300"/>
+
     Daily Usage Tracking: Displays a list of applications used on the current day, along with their total foreground usage time.
 
     Manual Refresh: A refresh button in the app bar allows users to manually update the usage statistics.
