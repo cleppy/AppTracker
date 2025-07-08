@@ -79,5 +79,3 @@ Important Notes
     Data Accuracy: The UsageStatsManager provides data based on the device's tracking. There might be slight delays in real-time updates depending on the Android system's behavior.
 
     Background Work: WorkManager ensures that data is collected periodically in the background (e.g., every 15 minutes), but immediate updates require a manual refresh or opening the app.
-
-Feel free to contribute, report issues, or suggest improvements!
